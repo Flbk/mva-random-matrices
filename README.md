@@ -1,5 +1,9 @@
 # mva-random-matrices
 
+![Eigenvalues distribution](homogene-eigval.png)
+![Eigenvectors distribution](homogene-eigvec.png)
+
+
 (Report is in french).
 
 This repository contains the code and the report linked to a TP on random matrices.
